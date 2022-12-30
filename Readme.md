@@ -1,3 +1,4 @@
+![](image/logo.jpeg)
 # Tea Timer: A timer for tea lover
 This program is a practice for `Flutter`. It may deploy in future on multi-platform. It is used for recording time for make tea.
 # Motivation
